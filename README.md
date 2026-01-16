@@ -1,12 +1,21 @@
-# Support Any Cause 🌍
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/Nigel1992)
 
-Thank you for your generosity! You can donate here using **PayPal, Visa, or Mastercard**.
+>  All donations go towards your chosen charity. You can pick any charity you'd like, and 5% is retained for Ko-Fi development costs. As a thank you, your name will be listed as a supporter/donor in this project. Feel free to email me at thedjskywalker@gmail.com for proof! :)
 
-### Your Impact:
-* **95%** of your donation goes to **any charity of your choosing**. Please mention the name of the organization in your donation message!
-* **5%** goes toward **Ko-fi project development** to help maintain and grow the platform.
 
-**Recognition:** Every donor will be officially listed as a **Supporter** on this project page/app/software/etc as a token of our appreciation.
+![](https://github.com/anxdpanic/plugin.video.youtube/raw/master/resources/media/icon.png)
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/nigel1992)
+[![Build Status](https://img.shields.io/endpoint.svg?url=https%3A%2F%2Factions-badge.atrox.dev%2Fanxdpanic%2Fplugin.video.youtube%2Fbadge&logo=none)](https://actions-badge.atrox.dev/anxdpanic/plugin.video.youtube/goto)
+![License](https://img.shields.io/badge/license-GPL--2.0--only-success.svg)
+![Kodi Version](https://img.shields.io/badge/kodi-nexus%2B-success.svg)
+![Contributors](https://img.shields.io/github/contributors/anxdpanic/plugin.video.youtube.svg)
 
+## Links
+
+* [YouTube](http://www.youtube.com)
+* [Support thread](https://ytaddon.page.link/forum)
+* [Wiki](https://github.com/anxdpanic/plugin.video.youtube/wiki)
+
+---
+
+![](https://i.imgur.com/fzPmDDJ.gif)
